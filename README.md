@@ -4,7 +4,7 @@ This repository contains code written for practising the knowledge gained from t
 
 ## ATTENTION
 
-1. By 22 February 2020, everything looks good with Jupyter Notebook 6.0.3 in Anaconda (Python 3.7 version). As an option, the IPYNB files can also be opened and edited in VS Code + Python 3.7 (Anaconda). The main packages used in the development are listed in Table 1.
+1. By 7 April 2020, everything looks good with Jupyter Notebook 6.0.3 in Anaconda. As an option, the IPYNB files can also be opened and edited in VS Code with Anaconda activated. The main packages used in the development are listed in Table 1.
 
 | Name | Version |
 | :-- | :--: |
